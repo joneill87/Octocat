@@ -31,9 +31,9 @@ We'll use this website to demonstrate how to use git in today's class.
 
 ## Pushing Your Changes
 
-11. In order to make sure everyone can see your changes we need to *publish* (or *push*) our commit. Click on the button with the sync icon in the top-right corner of the GitHub app.
+11. In order to make sure everyone can see your changes we need to *publish* (or *push*) our commit. Once you've committed your changes, you should see a button at the top of the GitHub client Window saying **push origin**.
 
-12. To make sure your changes have been published, click on the History tab on the left side of the GitHub client window. You should see your commit summary and commit description. If you click on it you should also see a list of all the files that were included.
+12. To make sure your changes have been published, check that the button you have just clicked has changed to say **Fetch origin**. This means there's nothing else to push.
 
 13. Congratulations! You've just published your first commit!
 
